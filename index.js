@@ -20,6 +20,6 @@ function distanceTravelledInFeet(start, destination) {
 }
   
 function calculatesFarePrice(start, destination) {
-  const = 
+  const distanceTravelledInFeet(start, destination)
   
 }
